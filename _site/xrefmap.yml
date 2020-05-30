@@ -1,0 +1,15 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Find_Lines_in_File
+  name: Find_Lines_in_File
+  href: api/Find_Lines_in_File.html
+  commentId: N:Find_Lines_in_File
+  fullName: Find_Lines_in_File
+  nameWithType: Find_Lines_in_File
+- uid: Find_Lines_in_File.Program
+  name: Program
+  href: api/Find_Lines_in_File.Program.html
+  commentId: T:Find_Lines_in_File.Program
+  fullName: Find_Lines_in_File.Program
+  nameWithType: Program

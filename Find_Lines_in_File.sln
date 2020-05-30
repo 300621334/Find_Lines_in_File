@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Lines_in_File", "Find_Lines_in_File.csproj", "{ECC4B783-405B-4BCC-BB35-16CEF9EA2773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC4B783-405B-4BCC-BB35-16CEF9EA2773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC4B783-405B-4BCC-BB35-16CEF9EA2773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC4B783-405B-4BCC-BB35-16CEF9EA2773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC4B783-405B-4BCC-BB35-16CEF9EA2773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B6AFB29-60A8-436D-90EE-B7858C41CF7B}
+	EndGlobalSection
+EndGlobal
